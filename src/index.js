@@ -63,7 +63,7 @@ class Quiz extends Component {
               selected={answer => this.computeAnswer(answer, correct)}
             />
           )}
-        {this.state.responses === 5 ? (<h2>You Scored-- {this.state.score}/5</h2>) : <h2>PlayAgain</h2>}
+        {this.state.responses === 5 ? (<h1>You Scored-- {this.state.score}/5</h1>) : <h1>PlayAgain</h1>}
         <div id="app">
         </div>
       </div>

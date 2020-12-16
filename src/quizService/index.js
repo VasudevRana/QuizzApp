@@ -3,9 +3,9 @@ const qBank = [
 
   {
     question:
-      "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-    answers: ["Richard Branson", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Richard Branson",
+    "What country has the most islands in the world?" ,
+    answers: ["Sweden", "Australia", "lakshwadeep island", "Denmark"],
+    correct: "Sweden",
     questionId: "099099"
   },
   {
@@ -23,14 +23,14 @@ const qBank = [
     questionId: "267908"
   },
   {
-    question: "What's the name of Batman's  parents?",
+    question: "What’s the smallest country in the world? ",
     answers: [
-      "Thomas & Martha",
-      "Joey & Jackie",
-      "Jason & Sarah",
-      "Todd & Mira"
+      "The Vatican",
+      "Peru",
+      "Sri lanka",
+      "Russia"
     ],
-    correct: "Thomas & Martha",
+    correct: "The Vatican",
     questionId: "333247"
   },
   {

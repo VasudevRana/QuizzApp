@@ -21,7 +21,7 @@
   top:90px;
   position :relative;
   
-  color: rgb(148, 15, 15);
+  color: rgb(0, 0, 0);
   padding: 20px;
   font-size: 2em;
   border-radius: 5px;
@@ -83,5 +83,5 @@
 .video{
   width: 115%;
   height: 170%;
-  opacity: 0.6;
+  opacity: 0.4;
 }
