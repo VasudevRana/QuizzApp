@@ -71,17 +71,20 @@
   outline: none;
   border: none;
   font-size: 1em;
-  color: rgb(184, 71, 71);
+  color: rgb(253, 5, 5);
   font-weight: bold;
   border-radius: 4px;
   cursor: pointer;
 }
 
-
+.answerBtn:active{
+  background-color: chartreuse;
+  color: cornsilk;
+}
 
 
 .video{
   width: 115%;
   height: 170%;
-  opacity: 0.4;
+  opacity: 0.5;
 }
